@@ -1,0 +1,23 @@
+{
+  "name": "04---js",
+  "version": "1.0.0",
+  "description": "## Aquí haremos que nuestras páginas tengan funcionalidad",
+  "main": "4.-pokedex.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IsaiasGrajales/04-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IsaiasGrajales/04-JS/issues"
+  },
+  "homepage": "https://github.com/IsaiasGrajales/04-JS#readme",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
