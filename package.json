@@ -4,7 +4,7 @@
   "description": "## Aquí haremos que nuestras páginas tengan funcionalidad",
   "main": "4.-pokedex.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "gh-pages -d ."
   },
   "repository": {
     "type": "git",
